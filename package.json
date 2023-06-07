@@ -3,10 +3,12 @@
   "dependencies": {
     "@hotwired/stimulus": "^3.2.1",
     "@hotwired/turbo-rails": "^7.3.0",
+    "@reduxjs/toolkit": "^1.9.5",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^8.0.7",
     "react-router-dom": "^6.12.0",
     "sort-by": "^1.2.0",
     "webpack": "^5.85.1",
